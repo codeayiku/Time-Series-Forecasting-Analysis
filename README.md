@@ -1,4 +1,6 @@
 
+![image](https://github.com/user-attachments/assets/3fb6099b-5507-4433-9042-65310c8a6db5)
+
 ---
 # Time Series Analysis and Forecasting Project
 Building A Machine Model That Accurately Predicts The Right Quantity of Products Are Always In Stock.
